@@ -1,5 +1,4 @@
 import React from "react";
-import WorkImg from "../assets/workImg.jpeg";
 import recipegenerator from "../assets/recipegenerator.png";
 import ecommercesite from "../assets/ecommercesite.png";
 
